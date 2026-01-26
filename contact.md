@@ -11,17 +11,17 @@ Please fill out the form below, and I'll get back to you within 24 hours.
 <form action="https://formspree.io/f/mgokzlze" method="POST" style="max-width: 500px; margin-top: 20px;">
   <div class="form-group">
     <label>Your Name:</label>
-    <input type="text" name="name" class="form-control" required>
+    <input type="text" name="name" required>
   </div>
-  
+
   <div class="form-group">
     <label>Your Email:</label>
-    <input type="email" name="_replyto" class="form-control" required>
+    <input type="email" name="email" required>
   </div>
 
   <div class="form-group">
     <label>Service Interested In:</label>
-    <select name="service" class="form-control">
+    <select name="service">
       <option value="Portrait">Portrait Session</option>
       <option value="Family">Family Session</option>
       <option value="Event">Event/Other</option>
@@ -30,8 +30,10 @@ Please fill out the form below, and I'll get back to you within 24 hours.
 
   <div class="form-group">
     <label>Message:</label>
-    <textarea name="message" class="form-control" rows="5" required></textarea>
+    <textarea name="message" rows="5" required></textarea>
   </div>
 
-  <button type="submit" class="btn btn-primary">Send Message</button>
+  <input type="text" name="_gotcha" style="display:none">
+
+  <button type="submit">Send Message</button>
 </form>
