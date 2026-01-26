@@ -21,6 +21,7 @@ author: Jiaao Guo
 
 navbar-links:
   Portfolio: "portfolio"   # This points to your portfolio.md file
+  Client Guide: "guide"
   Contact: "contact"
   About Me: "aboutme"      # This points to your aboutme.md file
 
