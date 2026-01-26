@@ -1,5 +1,10 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.14.2/simple-lightbox.min.css" />
+---
+layout: page
+title: Portfolio
+permalink: /portfolio/
+---
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.14.2/simple-lightbox.min.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.14.2/simple-lightbox.min.js"></script>
 
 <style>
@@ -11,11 +16,6 @@
     transform: scale(1.02);
   }
 </style>
----
-layout: page
-title: Portfolio
-permalink: /portfolio/
----
 
 ### Featured Work
 
@@ -66,7 +66,6 @@ permalink: /portfolio/
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     new SimpleLightbox('.gallery a', {
-        /* options */
         captionDelay: 250,
         showCounter: false
     });
