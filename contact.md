@@ -8,32 +8,11 @@ Let's chat about your vision! Whether it's a family session in Fish Creek Park o
 
 Please fill out the form below, and I'll get back to you within 24 hours.
 
-<form action="https://formspree.io/f/mgokzlze" method="POST" style="max-width: 500px; margin-top: 20px;">
-  <div class="form-group">
-    <label>Your Name:</label>
-    <input type="text" name="name" required>
-  </div>
-
-  <div class="form-group">
-    <label>Your Email:</label>
-    <input type="email" name="email" required>
-  </div>
-
-  <div class="form-group">
-    <label>Service Interested In:</label>
-    <select name="service">
-      <option value="Portrait">Portrait Session</option>
-      <option value="Family">Family Session</option>
-      <option value="Event">Event/Other</option>
-    </select>
-  </div>
-
-  <div class="form-group">
-    <label>Message:</label>
-    <textarea name="message" rows="5" required></textarea>
-  </div>
-
-  <input type="text" name="_gotcha" style="display:none">
-
-  <button type="submit">Send Message</button>
-</form>
+<div style="max-width: 700px; margin: 2rem auto;">
+  <iframe
+    src="https://docs.google.com/forms/d/e/1FAIpQLScxo81lAIU_EaoGzoSGAhRynt1RIdyX1LfDrXdIDeJetW_ggA/viewform?embedded=true"
+    width="100%"
+    height="900"
+    frameborder="0">
+  </iframe>
+</div>
