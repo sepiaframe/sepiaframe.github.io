@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Why you'd want to book photo sessions with Lumen Frame
+subtitle: Why you'd want to book photo sessions with Orange Frame
 ---
 
 
