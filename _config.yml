@@ -26,6 +26,9 @@ navbar-links:
   Contact: "contact"
   About Me: "aboutme"      # This points to your aboutme.md file
 
+url: "https://orangeframe.github.io"
+baseurl: ""
+
 ################
 # --- Logo --- #
 ################
