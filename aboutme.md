@@ -13,6 +13,6 @@ I believe that some of the best photographic outcomes come from raw intuition an
 
 I invite you to join me for a session in Calgary or Southern Alberta. Let’s capture your family or special event through an organic, authentic lens.
 
-**Email:** [photography.lumenframe@gmail.com](mailto:photography.lumenframe@gmail.com)
+**Email:** [sepiaframe@gmail.com](mailto:sepiaframe@gmail.com)
 
 ### [Explore My Work](/portfolio/){:target="_blank"}
