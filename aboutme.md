@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-subtitle: Why you'd want to book photo sessions with Orange Frame
+subtitle: Why you'd want to book photo sessions with Sepia Frame
 ---
 
 
-My name is **Jiaao**, and I am a landscape and portrait photographer based in Calgary, Alberta.
+My name is **Jiaao**, and I am a landscape and portrait photographer based in Calgary, Alberta. I'm also a PhD student specializing in drone- and satellite-based remote sensing (so unlike most of photographers, I take both oblique and nadir photos!)
 
 There is a common paradox between the "amateur" and the "professional." While professionals shoot to make a living, my work is driven purely by a passion that never cools. I have my own career path, which allows my photography to remain an undisturbed pursuit of art.
 
