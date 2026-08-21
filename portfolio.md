@@ -25,6 +25,22 @@ permalink: /portfolio/
     <img src="/assets/img/Drone_ObliquePhoto_DJI_Matrice_350_L2.JPG" alt="Drone image: Lake and Forest in Athabathca" style="width: 100%; border-radius: 5px;">
   </a>
 
+  <a href="/assets/img/Mix_20260722_123103.jpg">
+    <img src="/assets/img/Event.jpg" alt="Peatland Summer" style="width: 100%; border-radius: 5px;">
+  </a>
+
+    <a href="/assets/img/Mix_20260816_092037.jpg">
+    <img src="/assets/img/Event.jpg" alt="Milky Way, Jasper" style="width: 100%; border-radius: 5px;">
+  </a>
+  
+    <a href="/assets/img/Mix_20260815_220305.jpg">
+    <img src="/assets/img/Event.jpg" alt="Mistaya Canyon" style="width: 100%; border-radius: 5px;">
+  </a>
+
+  <a href="/assets/img/Mix_20251005_214004.jpg">
+    <img src="/assets/img/Event.jpg" alt="Horse Riding" style="width: 100%; border-radius: 5px;">
+  </a>
+
   <a href="/assets/img/Event.jpg">
     <img src="/assets/img/Event.jpg" alt="Muskrat Jamboree" style="width: 100%; border-radius: 5px;">
   </a>
