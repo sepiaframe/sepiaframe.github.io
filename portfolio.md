@@ -21,10 +21,6 @@ permalink: /portfolio/
 
 <div class="gallery" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 10px;">
   
-  <a href="/assets/img/Drone_ObliquePhoto_DJI_Matrice_350_L2.JPG">
-    <img src="/assets/img/Drone_ObliquePhoto_DJI_Matrice_350_L2.JPG" alt="Drone image: Lake and Forest in Athabathca" style="width: 100%; border-radius: 5px;">
-  </a>
-
   <a href="/assets/img/Mix_20260722_123103.jpg">
     <img src="/assets/img/Mix_20260722_123103.jpg" alt="Peatland Summer" style="width: 100%; border-radius: 5px;">
   </a>
@@ -56,7 +52,11 @@ permalink: /portfolio/
   <a href="/assets/img/HumanPortrait.JPG">
     <img src="/assets/img/HumanPortrait.JPG" alt="Portrait in foothills" style="width: 100%; border-radius: 5px;">
   </a>
-
+  
+  <a href="/assets/img/Drone_ObliquePhoto_DJI_Matrice_350_L2.JPG">
+    <img src="/assets/img/Drone_ObliquePhoto_DJI_Matrice_350_L2.JPG" alt="Drone image: Lake and Forest in Athabathca" style="width: 100%; border-radius: 5px;">
+  </a>
+  
   <a href="/assets/img/Human_Animal.JPG">
     <img src="/assets/img/Human_Animal.JPG" alt="Portrait with your animal" style="width: 100%; border-radius: 5px;">
   </a>
