@@ -1,0 +1,12 @@
+/* Change body text to Courier New */
+body {
+  font-family: 'Courier New', Courier, monospace !important;
+}
+
+/* Change all headings and page titles to Courier New */
+h1, h2, h3, h4, h5, h6, 
+.intro-header .page-heading h1,
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li a {
+  font-family: 'Courier New', Courier, monospace !important;
+}
